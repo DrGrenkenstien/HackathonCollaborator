@@ -1,15 +1,4 @@
-# Project for InOut7.0
-
-Team Building Platform for Hackathons!
-
-Our project titled TeamForHack primarily aims at giving opportunities to connect, collaborate, and work on innovative ideas with like-minded developers across the globe on hackathons.
-
-`Presentation Link :- `: [Click here](https://www.canva.com/design/DAEQ9KghvwY/0jVPym4ch9yQN03koFXKwA/view?utm_content=DAEQ9KghvwY&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
-
-`DevFolio Submission Link `: [Click here](https://devfolio.co/submissions/teamforhack)
-
-`Video Link`:[Click here](https://youtu.be/9dgO7NnOlY8)
-
+# Project HackathonCollaborator
 
 ## Instructions for Setup:
 1. Download the zip file and extract it to a New Folder.
